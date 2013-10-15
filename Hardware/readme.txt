@@ -1,0 +1,1 @@
+A place for hardware files such as schematics and boards
